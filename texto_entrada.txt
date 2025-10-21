@@ -1,0 +1,8 @@
+ esto es una linea con espacios.
+otra linea en minusculas
+ Y OTRA CON ESPACIOS Y MAYUSCULAS
+   linea con muchos espacios al inicio
+texto normal sin espacios
+MAYUSCULAS SIN ESPACIOS
+   minusculas con espacios
+Una Mezcla De Mayusculas Y Minusculas
